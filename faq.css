@@ -1,0 +1,13 @@
+.content-container{
+	width: 100%;
+	height: 100%;
+	background-color: white;
+}
+.content-container .title{
+	text-align: center;
+	color: black;
+	font-family: 'Ropa Sans', sans-serif;
+}
+.content-container .faq-list{
+	list-style: none;
+}
